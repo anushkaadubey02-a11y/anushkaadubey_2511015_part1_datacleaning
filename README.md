@@ -74,14 +74,6 @@ Sales performance varied significantly across regions and product categories.
 Customer segments contributed differently to overall revenue.
 Shipping delays were measured using a derived metric for operational analysis.
 Clean and standardized data improved the reliability of analytical results.
-Repository Structure
-├── raw_orders.xlsx
-├── cleaned_dataset.xlsx
-├── mapping_sheet.xlsx
-├── pivot_tables.xlsx
-├── dashboard_screenshots/
-├── task_report.docx
-└── README.md
 Conclusion
 
 This project demonstrates the complete workflow of preparing raw business data for analysis. Through data cleaning, validation, feature engineering, and reporting, the dataset was transformed into a reliable source for business decision-making and performance evaluation.
